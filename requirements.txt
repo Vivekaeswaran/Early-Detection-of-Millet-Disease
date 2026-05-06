@@ -1,0 +1,11 @@
+flask
+flask-sqlalchemy
+flask-login
+pillow
+reportlab
+werkzeug
+numpy
+requests
+beautifulsoup4
+pandas
+openpyxl
